@@ -1,6 +1,8 @@
 ## HookKiller
 
-![Logo](https://github.com/hook-killer/.github/blob/main/profile/asset/Logo.png?raw=true)
+<p>
+    <img src="https://github.com/hook-killer/.github/blob/main/profile/asset/Logo.png?raw=true" width="700">
+</p>
 
 > [!NOTE]
 > 동북아 자동번역 커뮤니티(Oriental Unity)를 개발한 HookKiller 팀 Repository 입니다.
