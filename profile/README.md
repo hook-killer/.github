@@ -1,4 +1,14 @@
-## Hi there 👋
+## HookKiller
+
+![Logo](./asset/Logo.png)
+
+> [!NOTE]
+> 동북아 자동번역 커뮤니티(Oriental Unity)를 개발한 HookKiller 팀 Repository 입니다.
+
+## 개요
+
+> [!NOTE]
+> 거리가 가까운 동북아 3국인 중국, 한국, 일본 세개국의 더 돈독한 화합과 교류를 위한 커뮤니티를 만들어보고 싶어 제작해본 프로젝트입니다.
 
 ## Member
 
