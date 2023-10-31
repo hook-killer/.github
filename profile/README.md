@@ -37,4 +37,12 @@
     <td align="center"><a href="https://github.com/kwchoi11"><b>근우</b></a></td>
     <td align="center"><a href="https://github.com/lgsok00"><b>진석</b></a></td>
   </tr>
+  <tr>
+    <td>👑PM💻</td>
+    <td>👨‍🔧팀원💻</td>
+    <td>👨‍🔧팀원💻</td>
+    <td>👨‍🔧팀원💻</td>
+    <td>👨‍🔧팀원💻</td>
+    <td>👨‍🔧팀원💻</td>
+  </tr>
 </table>
